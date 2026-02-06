@@ -1,0 +1,83 @@
+/* Global font and background feel */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header text improvements */
+header h1 {
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+nav span {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #dcdcdc;
+}
+
+nav span:hover {
+    color: #00ffff;
+    cursor: pointer;
+}
+
+/* Section titles */
+h2, h3 {
+    color: #1f3c88;
+    letter-spacing: 1px;
+}
+
+/* ABOUT ME label */
+.about {
+    color: #0b5ed7;
+    font-weight: bold;
+}
+
+/* Profile info text (Name, Age, etc.) */
+.profile  p {
+    color: #444;
+    font-weight: 500;
+    background-color: #eef2ff;
+    padding: 10px;
+    border-left: 4px solid #1f3c88;
+}
+
+/* Paragraph style changes */
+p {
+    color: #555;
+    font-size: 15px;
+}
+
+/* Make life sections look different */
+.column p {
+    color: #2c2c2c;
+    background-color: #fafafa;
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* Hobbies list */
+ul li {
+    color: #444;
+    font-style: italic;
+}
+
+/* Image text beside images */
+.image p {
+    color: #333;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Footer goodbye */
+footer h3 {
+    color: #6c757d;
+    letter-spacing: 2px;
+}
+.imggg{
+    width: 50px;
+    height: 50px;
+}
